@@ -6,5 +6,7 @@ Os dados são do Ministério da Saúde e apresentam características de paciente
 
 # Responsáveis:
 Anna Bheatryz M Santos
+
 Esther Victória A Santos
+
 Fernanda L Souza
