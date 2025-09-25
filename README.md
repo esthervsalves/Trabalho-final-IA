@@ -32,5 +32,5 @@
 ## Equipe
 
 - **Anna Bheatryz M. Santos**  
-- **Esther Victória A. Santos**  
+- **Esther Victória S. Alves**  
 - **Fernanda L. Souza**  
